@@ -1,19 +1,11 @@
-### [Foobar](https://foobar.com)
+### [keybr](https://keybr.com)
 
-#### Install using Git
+#### Install / Activate
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+1. Go to [keybr](https://keybr.com)
+2. Use the "sun/moon" icon on the right
+3. Select "Custom"
+4. Import
+5. Choose the ´´´dracula.keybr-theme´´´ file
 
-```bash
-git clone https://github.com/dracula/foobar.git
-```
 
-#### Install manually
-
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
