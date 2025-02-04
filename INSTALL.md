@@ -1,5 +1,7 @@
 ### [keybr](https://keybr.com)
 
+You just need to import the ```dracula.keybr-theme``` file to keybr.com
+
 #### Install / Activate
 
 1. Go to [keybr](https://keybr.com)
