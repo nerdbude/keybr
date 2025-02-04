@@ -1,12 +1,12 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [keybr](https://keybr.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [keybr](https://keybr.com).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/keybr](https://draculatheme.com/keybr).
 
 ## Team
 
